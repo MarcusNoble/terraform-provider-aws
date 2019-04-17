@@ -41,7 +41,7 @@ require (
 	github.com/pquerna/otp v1.1.0
 	github.com/spf13/pflag v1.0.3 // indirect
 	github.com/terraform-providers/terraform-provider-template v1.0.0
-	github.com/terraform-providers/terraform-provider-tls v1.2.0
+	github.com/terraform-providers/terraform-provider-tls/v2 v2.0.0
 	google.golang.org/grpc v0.0.0-20171025225919-b5eab4ccac6d // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/yaml.v2 v2.2.2
